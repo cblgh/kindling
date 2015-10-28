@@ -6,3 +6,5 @@ It works by downloading all the emails of the email address specified in the con
 It then reads those emails for any Project Gutenberg links. If it finds any, it downloads the books they
 correspond to and whisks them off to your kindle through [emailing it](http://www.amazon.com/gp/sendtokindle/email).
 
+# Acknowledgements
+Thanks to Linus Karlsson for letting me rip up [paperjam's](https://github.com/zozs/paperjam) mail code.
