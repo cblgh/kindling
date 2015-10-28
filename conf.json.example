@@ -1,0 +1,20 @@
+{
+  "downloaded_books": [], 
+  "smtp": {
+    "user": "a-gmail-user@gmail.com", 
+    "pass": "a-very-strong-password-for-gmail", 
+    "server": "smtp.gmail.com:587"
+    "kindle": "user-email@kindle.com", 
+  }, 
+  "sender_whitelist": [
+    "an-email@gmail.com", 
+    "another-email@gmail.com"
+  ], 
+  "pop": {
+    "user": "recent:a-gmail-user@gmail.com"
+    "pass": "a-very-strong-password-for-gmail", 
+    "host": "pop.gmail.com", 
+    "port": 995, 
+  }, 
+  "mail_hashes": []
+}

@@ -1,0 +1,6 @@
+conf.json
+*.swp
+*.json
+*.mobi
+*.pyc
+*.pyo
